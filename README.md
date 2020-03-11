@@ -1,6 +1,6 @@
 # Brain-Inspired-AI
 
-**_Jupyter Notebook_** for Brain Inspired Artificial Intelligent 
+**_Jupyter Notebook_** for Brain Inspired Artificial Intelligent Course. Objective of the course is to understand the core ideas behind **_brain-inspired learning algorithms_** for **_supervised learning, auto-associative memories, unsupervised learning, reinforcement learning, deep learning_**, with focus on their use in **_AI_** and how they related to **_neuroscience knowledge_**.
 
 ## Boltzmann Machine.ipynb & Boltzmann_Machine_Theory.pdf
 
